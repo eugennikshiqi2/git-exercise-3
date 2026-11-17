@@ -1,1 +1,1 @@
-# git-exercise-3
+# Git Exercise 3 - First Repository 
